@@ -75,4 +75,7 @@ This repository documents the development of a Belt Marking Machine, initiated o
 3. It can communicate with other laser machines synchronously and work with equal delays based on user input.
 4. It can be used for different belts with different values of width.
 
-Feel free to explore the code and documentation in this repository for more details about the Belt Marking Machine project.
+## Feel free to explore the code and documentation in this repository for more details about the Belt Marking Machine project.
+
+
+- **Email:** aibomechatronics@gmail.com
